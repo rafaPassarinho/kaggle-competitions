@@ -1,6 +1,6 @@
 # Kaggle Competitions Repository
 
-This repository contains code and solutions for various Kaggle competitions. Each competition is organized in a separate directory,
+This repository contains code and solutions for various Kaggle competitions. Each competition is organized in a separate directory.
 
 ## Competitions
 
